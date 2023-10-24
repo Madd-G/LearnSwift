@@ -4,5 +4,6 @@
         <page name='SwiftBasics'/>
         <page name='DataTypes'/>
         <page name='Variables'/>
+        <page name='Operators'/>
     </pages>
 </playground>
