@@ -6,5 +6,6 @@
         <page name='Variables'/>
         <page name='Operators'/>
         <page name='Functions'/>
+        <page name='Optionals'/>
     </pages>
 </playground>
