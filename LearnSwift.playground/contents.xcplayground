@@ -7,5 +7,6 @@
         <page name='Operators'/>
         <page name='Functions'/>
         <page name='Optionals'/>
+        <page name='Tuple'/>
     </pages>
 </playground>
