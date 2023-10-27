@@ -9,5 +9,6 @@
         <page name='Optionals'/>
         <page name='Tuple'/>
         <page name='OOP'/>
+        <page name='Struct'/>
     </pages>
 </playground>
