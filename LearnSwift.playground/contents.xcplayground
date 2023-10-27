@@ -10,5 +10,6 @@
         <page name='Tuple'/>
         <page name='OOP'/>
         <page name='Struct'/>
+        <page name='Enum'/>
     </pages>
 </playground>
